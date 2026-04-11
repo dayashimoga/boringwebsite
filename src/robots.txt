@@ -1,7 +1,4 @@
 User-agent: *
-Allow: /
-
-User-agent: Mediapartners-Google
-Allow: /
+Disallow:
 
 Sitemap: https://quickutils.top/sitemap.xml
